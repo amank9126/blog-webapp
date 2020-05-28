@@ -1,0 +1,8 @@
+{% extends "webapp1/base.html"%}
+
+  {% block content %}
+  <h2>You habe been Logged out</h2>
+      <div class="border-top pt-4">
+        <small class="text-muted"> <a href="{% url 'login' %}">Login In Again</a></small>
+      </div>
+  {% endblock content %}
