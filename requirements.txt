@@ -4,7 +4,7 @@ chardet==3.0.4
 distlib==0.3.0
 Django==2.2.13
 django-crispy-forms==1.9.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 Faker==4.0.2
 filelock==3.0.12
 idna==2.9
